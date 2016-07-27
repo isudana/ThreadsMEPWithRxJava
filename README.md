@@ -23,4 +23,4 @@ This project contains sample code snippets for implementing different message ex
 
 
 ##Pattern 6
-![alt tag](docs/pattern6.png)
+![alt tag](docs/pattern6.png) 
