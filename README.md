@@ -14,7 +14,7 @@ This project contains sample code snippets for implementing different message ex
 ![alt tag](docs/pattern3.png)
 
 
-##Pattern 4
+##Pattern 4 
 ![alt tag](docs/pattern4.png)
 
 
